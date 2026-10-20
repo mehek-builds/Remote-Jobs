@@ -1,11 +1,16 @@
 # Remote actuarial jobs
 
-**46 roles at 23 companies.** Checked 17 Oct 2026. 46 remote roles at 23 companies. Actuarial analysts, actuaries, actuarial internships and catastrophe modeling across health, life, annuities, P&C and reinsurance.
+**44 roles at 23 companies.** Checked 20 Oct 2026. 44 remote roles at 23 companies. Actuarial analysts, actuaries, actuarial internships and catastrophe modeling across health, life, annuities, P&C and reinsurance.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Oscar Health** | [Senior Director, Actuarial - Risk Adjustment](https://trylitos.com/job/16b2084d-6723-49e0-9e46-0027bbeefaf6?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 16 |  |
+| **Oscar Health** | [Senior Manager, Actuarial - Risk Adjustment](https://trylitos.com/job/0aa51cef-2625-4d6b-a6ce-e787a6592930?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 16 |  |
+| **Public Consulting Group** | [Associate Actuary](https://trylitos.com/job/2aeac705-9e61-48b2-99f7-f2497933b237?utm_source=github&utm_campaign=remote-actuarial) | United States (Remote) |  | Oct 16 |  |
+| **Horizon Blue Cross Blue Shield of New Jersey** | [Actuarial Analyst III (Government Programs Trend & AI)](https://trylitos.com/job/3c2d79d5-f83f-4c0b-8025-cd3b1d0e72fa?utm_source=github&utm_campaign=remote-actuarial) | Newark, NJ - Remote |  | Oct 16 |  |
+| **SAIF** | [Associate Actuary](https://trylitos.com/job/3b6916fb-58cc-413d-b208-9fd6598f5b64?utm_source=github&utm_campaign=remote-actuarial) | Oregon - US - Remote |  | Oct 15 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Agilon Health** | [Actuarial Manager, Medicare Value-Based Care](https://trylitos.com/job/38dbed4b-d228-4b86-8cc2-7b77d079af72?utm_source=github&utm_campaign=remote-actuarial) | Remote - USA |  | Oct 14 |  |
 | **Oscar Health** | [Manager, Actuarial](https://trylitos.com/job/a66f42b2-6809-4253-9c46-e1e44aa98f92?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 14 |  |
 | **Oscar Health** | [Associate Director, Actuarial](https://trylitos.com/job/911c2e8d-e205-4d20-9f84-cc161c337c3b?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 14 |  |
@@ -15,13 +20,10 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **CareSource** | [Senior Director, Actuarial Science(Preferred Experience In Federal Health Policy Analysis & Advocacy)](https://trylitos.com/job/9c6e669f-7b1f-4384-9b18-59eaf5663e4c?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 9 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Clover Health** | [Senior Manager, Actuarial AI & Enterprise Performance](https://trylitos.com/job/38f723fd-c3a2-4cbe-b815-65c85893a9f7?utm_source=github&utm_campaign=remote-actuarial) | Remote - USA | USD 157,700 to 205,000 per year | Oct 9 | Employer has certified LCAs (DOL); posting does not say |
 | **Clover Health** | [Chief Actuary](https://trylitos.com/job/dce75104-04ae-46e1-9f11-2451e6d37e6f?utm_source=github&utm_campaign=remote-actuarial) | Remote - USA | USD 274,000 to 356,000 per year | Oct 9 | Employer has certified LCAs (DOL); posting does not say |
-| **CareSource** | [Actuarial Analyst I](https://trylitos.com/job/ae00d1de-0c2c-4c87-aa46-3610a0cd3d15?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Oct 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Porch Group** | [Actuarial Analyst](https://trylitos.com/job/760446ed-3762-429e-9acb-a0837fb9a2a6?utm_source=github&utm_campaign=remote-actuarial) | IN Remote |  | Oct 6 |  |
 | **Voya Financial** | [Summer 2027 Actuarial Intern](https://trylitos.com/job/6c590f79-4ca8-44f5-b670-b5aa2b460519?utm_source=github&utm_campaign=remote-actuarial) | United States-Remote |  | Oct 2 |  |
 | **Martello Re** | [Senior Actuarial Associate](https://trylitos.com/job/3a574298-9600-4b59-98fd-9b41b9edfb22?utm_source=github&utm_campaign=remote-actuarial) | Charlotte, NC | Remote (United States) |  | Oct 2 |  |
 | **Fetch** | [Actuarial Data Scientist](https://trylitos.com/job/7793395b-bf2b-49a8-a3fc-5d5e88f49b5d?utm_source=github&utm_campaign=remote-actuarial) | Remote | USD 150,000 to 160,000 per year | Sep 30 | Employer has certified LCAs (DOL); posting does not say |
 | **Root Insurance** | [Principal, Corporate Actuarial](https://trylitos.com/job/4405c99e-3ee3-475b-a16d-8a844206085b?utm_source=github&utm_campaign=remote-actuarial) | Remote (United States) |  | Sep 28 |  |
-| **Centene - we appreciate your interest** | [Senior Actuary](https://trylitos.com/job/873dd0ee-83b0-4d1e-8cb9-114fb02cfe22?utm_source=github&utm_campaign=remote-actuarial) | Remote-IL; Remote-TN; Remote-NE; Remote-KS; R |  | Sep 25 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Wildfire Defense Systems, Inc.** | [Associate Actuary II](https://trylitos.com/job/db006062-cab1-496b-813a-1c4b590e186d?utm_source=github&utm_campaign=remote-actuarial) | Remote (United States) |  | Sep 25 | Employer has approved H-1B petitions (USCIS); posting does not say |
 | **Blake Willson Group** | [Senior Healthcare Actuarial Consultant](https://trylitos.com/job/29bcac24-09f3-4ad7-9780-186f333caed3?utm_source=github&utm_campaign=remote-actuarial) | Remote, US |  | Sep 24 |  |
 | **Centene - we appreciate your interest** | [Sr. Mgr., Actuarial Services - Medicare](https://trylitos.com/job/272156fd-5ab2-47b4-a07c-a092e0a4c230?utm_source=github&utm_campaign=remote-actuarial) | Remote-MN; Remote-TN; Remote-NE; Remote-KS; R |  | Sep 23 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -48,9 +50,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **The Standard** | [Vice President, Actuary - Life, Absence and Disability Benefits (LAD)](https://trylitos.com/job/d4edfe5b-7463-4472-bb8f-7b9d7129bb58?utm_source=github&utm_campaign=remote-actuarial) | Portland, OR; Remote, USA |  | Aug 13 |  |
 | **CareSource** | [Director, Actuarial Science (AI Transformation)](https://trylitos.com/job/35563d4c-2862-4511-895e-a881dd46afdc?utm_source=github&utm_campaign=remote-actuarial) | Remote |  | Aug 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Altais Health Solutions** | [Senior Actuarial Analyst](https://trylitos.com/job/1d507694-4649-4491-b2a1-5590c597a4e0?utm_source=github&utm_campaign=remote-actuarial) | Remote - USA |  | May 20 |  |
-| **At-Bay** | [Senior Actuarial Analyst, Pricing (Remote)](https://trylitos.com/job/659beda9-ed7c-49c7-b2f5-30f4e4a41475?utm_source=github&utm_campaign=remote-actuarial) | Remote (US) |  | Feb 19 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **At-Bay** | [Actuary / Senior Actuary (Remote)](https://trylitos.com/job/e752e1d1-65e5-491b-b99d-e6d0aad701fe?utm_source=github&utm_campaign=remote-actuarial) | Remote (US) |  | Feb 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Martello Re** | [Actuary, Modeling & ALM (Prophet)](https://trylitos.com/job/982a2fb3-4917-4bbe-bcc9-4071b6e378bf?utm_source=github&utm_campaign=remote-actuarial) | Hamilton, Bermuda | Charlotte, NC | Remote (U |  | Feb 13 |  |
-| **Martello Re** | [Actuary - Modeling & ALM](https://trylitos.com/job/a0f29f6a-3e70-4e7d-9526-aeea3abecf6d?utm_source=github&utm_campaign=remote-actuarial) | Hamilton, Bermuda | Charlotte, NC | Remote (U |  | Sep 24 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)

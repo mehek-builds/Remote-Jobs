@@ -1,6 +1,6 @@
 # Remote engineering jobs: entry level and internships
 
-**45 roles at 40 companies.** Checked 15 Oct 2026. 45 remote entry level roles and internships. Software, data, AI, cloud, security and hardware engineering.
+**39 roles at 35 companies.** Checked 20 Oct 2026. 39 remote entry level roles and internships. Software, data, AI, cloud, security and hardware engineering.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -14,10 +14,8 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Veradigm** | [Entry Level Salesforce Engineer](https://trylitos.com/job/e717f04c-a57a-4b6e-8856-0aa49a4a0ca4?utm_source=github&utm_campaign=remote-engineering) | Remote - US |  | Oct 1 |  |
 | **Barry-Wehmiller** | [Entry-Level Field Service Engineer - January 2027 Start](https://trylitos.com/job/de03ece1-66fc-4cc2-8983-21190d8620e9?utm_source=github&utm_campaign=remote-engineering) | Remote - USA |  | Oct 1 |  |
 | **Risepoint** | [Analytics Engineering Co-Op](https://trylitos.com/job/1d5800bc-0a94-4bb8-9364-55966367b96c?utm_source=github&utm_campaign=remote-engineering) | US - Remote |  | Sep 29 | Employer has certified LCAs (DOL); posting does not say |
-| **Travelers** | [Engineering Development Program (EDP) Co-op Intern](https://trylitos.com/job/9932a787-58dd-453b-bf9d-304168e481ef?utm_source=github&utm_campaign=remote-engineering) | CT - Hartford; US - Nationwide; MA - Boston |  | Sep 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Huron** | [Data Management Solution Consultant (Associate)](https://trylitos.com/job/ee8e3981-e879-462d-8d3e-51fa8c83ee59?utm_source=github&utm_campaign=remote-engineering) | Chicago - 550 Van Buren |  | Sep 22 |  |
 | **Huron** | [Data Platform Engineer (Associate)](https://trylitos.com/job/99d41323-19be-47d4-8242-51eb18ef2185?utm_source=github&utm_campaign=remote-engineering) | Chicago - 550 Van Buren |  | Sep 16 |  |
-| **White Cap** | [Associate Applicaton Engineer](https://trylitos.com/job/d5c8bea8-8184-498b-9ab2-bfc87e9e6657?utm_source=github&utm_campaign=remote-engineering) | REMOTE-UT |  | Aug 12 |  |
 | **Revantage** | [Associate, Quantitative Developer](https://trylitos.com/job/39f9a7d7-9828-49df-aabb-09deb5453d67?utm_source=github&utm_campaign=remote-engineering) | Chicago, IL |  | Aug 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Embry-Riddle Aeronautical University** | [Tenured Associate Professor of Data Science (Remote U.S.)](https://trylitos.com/job/f2517755-7533-4964-9bde-0ffa6a8aa0e8?utm_source=github&utm_campaign=remote-engineering) | Remote - United States |  | Jun 25 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **The Campbell's Company** | [Agentic AI Engineer Co-Op](https://trylitos.com/job/d796971f-9af0-4bc1-ac6b-ae077490b438?utm_source=github&utm_campaign=remote-engineering) | USA - Remote |  | Jun 16 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
@@ -26,7 +24,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **AcuityMD** | [Data Program Associate](https://trylitos.com/job/cd925f71-e9d1-4d90-b350-3c65df74bcd6?utm_source=github&utm_campaign=remote-engineering) | Boston or Remote |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Recidiviz** | [Data Analyst (Entry-Level)](https://trylitos.com/job/893e6685-ac20-41fd-85f5-bfbd2efe1ae0?utm_source=github&utm_campaign=remote-engineering) | Remote, New York City, or Oakland |  | Oct 13 |  |
 | **Databento** | [Financial Data Sales Associate, EMEA](https://trylitos.com/job/b82c170e-fb68-48d2-a936-038768712006?utm_source=github&utm_campaign=remote-engineering) | Remote, Global |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **FormativGroup** | [Data Engineering - Associate](https://trylitos.com/job/b2b35a8f-0dfa-45c0-999a-5f5ab3741072?utm_source=github&utm_campaign=remote-engineering) | Remote/United States - Full-Time | USD 75,000 to 85,000 per year | Oct 12 |  |
 | **TOMORROW HIRE** | [Junior Controls Engineer](https://trylitos.com/job/453e60c9-abcb-4daf-a20b-15198bcc3150?utm_source=github&utm_campaign=remote-engineering) | United States |  | Oct 9 |  |
 | **Olsson** | [Associate Electrical Engineer-Federal Engineering & Design](https://trylitos.com/job/e296626e-8330-4d85-a801-42e536b8a476?utm_source=github&utm_campaign=remote-engineering) | Arizona - Remote; Arkansas - Remote; Florida |  | Oct 7 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Clerkie** | [Software Engineer Internship](https://trylitos.com/job/08aa6b20-1c50-4c17-8536-89c19d080357?utm_source=github&utm_campaign=remote-engineering) | Remote |  | Oct 2 |  |
@@ -38,7 +35,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Security Risk Advisors** | [CyberSOC Co-op - 2027 (US Green Shift)](https://trylitos.com/job/b0971221-4857-4f9a-a854-3f77808e26f8?utm_source=github&utm_campaign=remote-engineering) | Hawaii, United States |  | Sep 8 |  |
 | **Archer** | [Associate Survivability and Operations Analysis Engineer](https://trylitos.com/job/fe20bdf6-f03a-4bb2-bfcc-12b9f91efbd0?utm_source=github&utm_campaign=remote-engineering) | Remote; San Jose, California, United States |  | Sep 2 |  |
 | **Drug Hunter** | [Research Associate - Data Curation](https://trylitos.com/job/ad65d8dc-39be-41d4-a1cf-29f9dc1e7c3b?utm_source=github&utm_campaign=remote-engineering) | United States |  | Sep 2 |  |
-| **Olsson** | [Water and Wastewater Associate Engineer - Industrial Environmental](https://trylitos.com/job/edc39a6e-2bb1-404a-a07c-4e4323e6ed52?utm_source=github&utm_campaign=remote-engineering) | Remote |  | Sep 1 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **NewRocket** | [AI Engineer-Anthropic-University/Graduate Level - Netherlands/Western Europe](https://trylitos.com/job/036e4f74-a22a-49e5-b5b8-58300fb8ba9e?utm_source=github&utm_campaign=remote-engineering) | Europe-Remote |  | Sep 1 |  |
 | **Notion** | [Software Engineer, New Grad (Dec 2026)](https://trylitos.com/job/1961e10a-750c-40b1-80bb-419b2ffa1074?utm_source=github&utm_campaign=remote-engineering) | San Francisco, California |  | Aug 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **ConnectPrep** | [Data Analyst Internship](https://trylitos.com/job/b3f684e5-2b7e-4b96-97f5-b91f23207319?utm_source=github&utm_campaign=remote-engineering) | Washington, District of Columbia, United Stat |  | Aug 13 |  |
@@ -49,7 +45,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Urrly** | [Junior / Mid-Level Full-Stack Platform Engineer](https://trylitos.com/job/67073d55-2d5f-41b0-b494-7598c51a6b96?utm_source=github&utm_campaign=remote-engineering) | Austin, TX |  | Jun 12 |  |
 | **Two95 International Inc.** | [Junior QA Analyst /Tester - Candidates only from California USA](https://trylitos.com/job/2f4d89c6-ed09-4430-ba13-df1d81fc2499?utm_source=github&utm_campaign=remote-engineering) | California, United States |  | May 19 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Abstract** | [Junior C++ Software Developer ⏤ Remote Contractor](https://trylitos.com/job/6e9633e0-9e7f-439f-9f74-c4ff30429daf?utm_source=github&utm_campaign=remote-engineering) | Stuttgart, DE |  | May 18 |  |
-| **Advision Development** | [Junior Backend Developer (AI & LLM Focus)](https://trylitos.com/job/5cb30f9f-f333-4609-8e8b-730924abb927?utm_source=github&utm_campaign=remote-engineering) | Austin, TX / Remote (Austin, Texas, US) |  | Sep 12 |  |
-| **Dunder Mifflin Paper** | [Software Engineer(New Grad)](https://trylitos.com/job/07e734d1-c0b1-4db4-bbca-e5861ad93058?utm_source=github&utm_campaign=remote-engineering) | remote(united states) |  | Feb 6 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)

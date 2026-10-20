@@ -1,6 +1,6 @@
 # Remote sales and marketing jobs: entry level and internships
 
-**51 roles at 40 companies.** Checked 15 Oct 2026. 51 remote entry level roles and internships. Sales, account executives, business development, marketing, content, SEO, growth and communications.
+**44 roles at 34 companies.** Checked 20 Oct 2026. 44 remote entry level roles and internships. Sales, account executives, business development, marketing, content, SEO, growth and communications.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -14,8 +14,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Avantor** | [Sales Associate](https://trylitos.com/job/c50a2168-6507-4d26-952e-113c5373a5f6?utm_source=github&utm_campaign=remote-sales-marketing) | Remote - Ohio |  | Oct 12 |  |
 | **Ensora Health** | [Junior Account Executive](https://trylitos.com/job/36587a9b-18e7-4994-9b1f-ccb016771134?utm_source=github&utm_campaign=remote-sales-marketing) | Remote - Illinois; Remote - Idaho; Remote - K |  | Oct 12 |  |
 | **AT&T** | [Marketing Excellence Program - Internship](https://trylitos.com/job/6240b624-1ae9-433e-a1bf-fe16723d959d?utm_source=github&utm_campaign=remote-sales-marketing) | Dallas, Texas |  | Oct 12 |  |
-| **Advocate Health** | [Enterprise Internship, Social Media/Public Relations/Communication](https://trylitos.com/job/dd584e45-5633-4fa4-8e6e-9e22d39f6f8a?utm_source=github&utm_campaign=remote-sales-marketing) | Remote |  | Oct 12 |  |
-| **Johnson & Johnson** | [Internal Communications Co-op](https://trylitos.com/job/a259e462-ef63-4b51-a5d1-17d1b519a775?utm_source=github&utm_campaign=remote-sales-marketing) | Danvers, Massachusetts, United States of Amer |  | Oct 8 |  |
 | **Tempus AI** | [Associate, Strategic Partnerships](https://trylitos.com/job/5f7eb3bf-9e6a-4cf3-b32c-7ccb8d69aefb?utm_source=github&utm_campaign=remote-sales-marketing) | Remote - Illinois |  | Oct 8 | Employer has approved H-1B petitions (USCIS); posting does not say |
 | **Guardant Health** | [Associate Account Executive - Screening](https://trylitos.com/job/e4fa1763-1f34-4d41-b74b-8ce0ced55941?utm_source=github&utm_campaign=remote-sales-marketing) | Remote-USA-FL |  | Oct 7 |  |
 | **AT&T** | [Sales Development Program - Internship](https://trylitos.com/job/bfaeee01-a75f-4844-b155-4c973d0aa860?utm_source=github&utm_campaign=remote-sales-marketing) | Dallas, Texas |  | Oct 6 |  |
@@ -32,7 +30,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Precision AQ** | [Strategic Account Associate, Medical Communications](https://trylitos.com/job/3c9cc91e-db59-4b3c-bf89-36ba2fda982d?utm_source=github&utm_campaign=remote-sales-marketing) | Remote, United States | USD 70,642 to 105,963 per year | Oct 14 |  |
 | **Databento** | [Quantitative Sales Associate](https://trylitos.com/job/05059ad9-26e6-4deb-b0fe-0c3e79a502ec?utm_source=github&utm_campaign=remote-sales-marketing) | Remote / San Francisco / NYC / Boston / Salt |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Databento** | [Financial Data Sales Associate, EMEA](https://trylitos.com/job/b82c170e-fb68-48d2-a936-038768712006?utm_source=github&utm_campaign=remote-sales-marketing) | Remote, Global |  | Oct 13 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Edelman Financial Engines, LLC** | [Product Marketing Associate](https://trylitos.com/job/4c261482-412e-4669-acba-e5e7dd6e447e?utm_source=github&utm_campaign=remote-sales-marketing) | Boston or Remote |  | Oct 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Dozuki** | [Junior Enterprise Account Executive- Expansion (Remote USA/Canada)](https://trylitos.com/job/8b68e7b7-6fe1-4953-a036-d9da3bbbf753?utm_source=github&utm_campaign=remote-sales-marketing) | Remote |  | Oct 8 |  |
 | **Bauer Entertainment Marketing** | [Spring 2027 Business Development Internship](https://trylitos.com/job/55f04bc6-d3ec-4127-a20c-89685e03cf47?utm_source=github&utm_campaign=remote-sales-marketing) | Nashville, TN |  | Oct 7 |  |
 | **Rush Street Interactive** | [Product Marketing Internship- Spring 2027](https://trylitos.com/job/ae5945da-9be3-45ce-be93-b30e5d211d9f?utm_source=github&utm_campaign=remote-sales-marketing) | USA - Remote | USD 16 per hour | Oct 2 | Employer has approved H-1B petitions (USCIS); posting does not say |
@@ -43,7 +40,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **YipitData** | [Sales Associate - SMB](https://trylitos.com/job/53d36228-857f-4765-bb07-2392355397c1?utm_source=github&utm_campaign=remote-sales-marketing) | US Remote |  | Sep 23 |  |
 | **Alphatec Spine** | [Associate Sales Representative](https://trylitos.com/job/f88277fc-62b8-4636-a2b9-64328565c592?utm_source=github&utm_campaign=remote-sales-marketing) | Kansas City, Missouri, United States |  | Sep 23 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Smart City Locating** | [Business Development Associate](https://trylitos.com/job/1516866a-3abd-482c-93b6-b7316249b2eb?utm_source=github&utm_campaign=remote-sales-marketing) | Phoenix, AZ |  | Sep 22 |  |
-| **Edelman Financial Engines, LLC** | [Institutional Client Marketing Associate](https://trylitos.com/job/4f5b6bed-6812-443a-b1a3-c6289a397597?utm_source=github&utm_campaign=remote-sales-marketing) | Remote Nationwide or Boston, MA | USD 64,300 to 85,800 per year | Sep 22 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Cover Whale Insurance Solutions** | [Business Development Associate, South West Region (Remote)](https://trylitos.com/job/289bd189-cfe8-44df-b7d1-77793e282e23?utm_source=github&utm_campaign=remote-sales-marketing) | Arizona, United States / Texas, United States |  | Sep 21 |  |
 | **Supplier.io** | [Marketing Associate (Contract)](https://trylitos.com/job/7a706027-6b41-445b-afa8-a1c3aad9bee9?utm_source=github&utm_campaign=remote-sales-marketing) | Remote (United States) |  | Sep 18 |  |
 | **Converge Strategies** | [Associate, Communications and Marketing](https://trylitos.com/job/dcb6ddf0-20ab-4d79-8825-b6ab6d1c942a?utm_source=github&utm_campaign=remote-sales-marketing) | United States |  | Sep 17 |  |
@@ -54,8 +50,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Leap Group** | [Junior Government Partnerships & Task Order Specialist](https://trylitos.com/job/35917e09-cdf9-4a14-900f-58bd545ba99d?utm_source=github&utm_campaign=remote-sales-marketing) | Louisville, KY / Cincinnati, OH / Indianapoli |  | Aug 21 |  |
 | **Dodge Construction Network** | [Associate Account Executive (Evergreen)](https://trylitos.com/job/eb76d110-aa50-44b0-9f36-633fe8c68493?utm_source=github&utm_campaign=remote-sales-marketing) | United States |  | Aug 5 |  |
 | **YipitData** | [Sales Associate - Investor](https://trylitos.com/job/7d4af6d5-0ee9-453d-9306-d90a86f949f7?utm_source=github&utm_campaign=remote-sales-marketing) | US Remote |  | Jul 28 |  |
-| **AGent Energy** | [Sales Associate](https://trylitos.com/job/a1616391-8b22-438b-bb52-b8f3440df7e1?utm_source=github&utm_campaign=remote-sales-marketing) | Remote (United States) |  | Mar 13 |  |
-| **Black Diamond Networks** | [Sales Internship (FL)](https://trylitos.com/job/db62dc61-100c-4f63-ba5a-f773962e4ed6?utm_source=github&utm_campaign=remote-sales-marketing) | Palm Beach Gardens, United States |  | Dec 23 |  |
-| **GRIN** | [Associate Business Development Representative](https://trylitos.com/job/1889ae43-12b0-415c-87c1-110d2ecd8225?utm_source=github&utm_campaign=remote-sales-marketing) | The USA (Remote) | USD 64,000 per year | Apr 17 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
