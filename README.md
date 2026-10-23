@@ -10,6 +10,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Finance and accounting](lists/finance-accounting.md) | 950 | 454 | [26](lists/finance-accounting-entry-level.md) | Workiva, Ryan Specialty, Sorren, SouthState Bank, Public Consulting Group |
 | [Sales and marketing](lists/sales-marketing.md) | 3,159 | 1,176 | [44](lists/sales-marketing-entry-level.md) | Alcon, Workiva, Envista, Varsity Brands, Epiq |
 | [Actuarial](lists/actuarial.md) | 44 | 23 | - | CareSource, Centene, Oscar Health, The Standard, Martello Re |
+| [IT project and product management](lists/it-project-product-management.md) | 72 | 61 | - | Cisco, General Motors, Zillow, Workiva, YipitData |
 
 Click a role to open it, with the employer's own application link. Only roles open to people in the US are included; the location column shows any state or time zone limits. Every list is also a spreadsheet in [csv/](csv/), easier to filter by location or title.
 
