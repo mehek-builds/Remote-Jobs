@@ -1,6 +1,6 @@
 # Remote engineering jobs (page 1 of 4)
 
-**1,244 roles at 385 companies.** Checked 20 Oct 2026. 3,244 remote roles at 976 companies. Software, data, AI, cloud, security and hardware engineering.
+**1,243 roles at 385 companies.** Checked 20 Oct 2026. 3,243 remote roles at 976 companies. Software, data, AI, cloud, security and hardware engineering.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
@@ -88,7 +88,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **CrowdStrike** | [Sr. Software Engineer, MarTech (Remote)](https://trylitos.com/job/4cdab062-02be-42df-9ba0-028cf1cdc0fb?utm_source=github&utm_campaign=remote-engineering) | USA - Remote |  | Oct 19 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **International Rescue Committee** | [AI Platform Engineer](https://trylitos.com/job/5159a400-d4cd-481a-b531-a7a2580da0aa?utm_source=github&utm_campaign=remote-engineering) | New York, NY HQ USA |  | Oct 19 |  |
 | **Associated Bank** | [Full-Stack Developer Senior](https://trylitos.com/job/56b2c8b7-ad0c-41a7-bcc2-819ea93dde9f?utm_source=github&utm_campaign=remote-engineering) | US WI Remote; US NE Remote; US MN Remote; US  |  | Oct 19 |  |
-| **Epiq** | [Sr. Manager AI Governance](https://trylitos.com/job/58a18dd0-07d3-4bd8-8941-261f2b892fb7?utm_source=github&utm_campaign=remote-engineering) | New York, NY |  | Oct 19 |  |
 | **Cloudera** | [Sr. Infrastructure Solutions Engineer (Compute & Storage)](https://trylitos.com/job/61dbfc47-0b18-4a6b-b531-ea6350effbd9?utm_source=github&utm_campaign=remote-engineering) | US-Texas-Remote |  | Oct 19 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Target** | [Lead Engineer AI Security - Security Architecture](https://trylitos.com/job/642fe8ec-ab8b-4daf-8c7e-09fc289a5d28?utm_source=github&utm_campaign=remote-engineering) | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN  |  | Oct 19 |  |
 | **Commerce** | [Manager, Data Engineering](https://trylitos.com/job/68c788d3-ab06-4af1-82e5-aea8897a0392?utm_source=github&utm_campaign=remote-engineering) | United States - Remote |  | Oct 19 |  |

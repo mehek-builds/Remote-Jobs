@@ -1,6 +1,6 @@
 # Remote engineering jobs (page 3 of 4)
 
-**997 roles at 420 companies.** Checked 20 Oct 2026. 3,244 remote roles at 976 companies. Software, data, AI, cloud, security and hardware engineering.
+**997 roles at 420 companies.** Checked 20 Oct 2026. 3,243 remote roles at 976 companies. Software, data, AI, cloud, security and hardware engineering.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
