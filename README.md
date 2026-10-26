@@ -11,6 +11,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Sales and marketing](lists/sales-marketing.md) | 3,159 | 1,176 | [44](lists/sales-marketing-entry-level.md) | Alcon, Workiva, Envista, Varsity Brands, Epiq |
 | [Actuarial](lists/actuarial.md) | 44 | 23 | - | CareSource, Centene, Oscar Health, The Standard, Martello Re |
 | [IT project and product management](lists/it-project-product-management.md) | 72 | 61 | - | Cisco, General Motors, Zillow, Workiva, YipitData |
+| [Customer success and account management](lists/customer-success-account-management.md) | 385 | 232 | - | Human Interest, Solenis, Medtronic, Brown & Brown, Alcon |
 
 Click a role to open it, with the employer's own application link. Only roles open to people in the US are included; the location column shows any state or time zone limits. Every list is also a spreadsheet in [csv/](csv/), easier to filter by location or title.
 
